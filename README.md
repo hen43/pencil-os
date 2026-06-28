@@ -1,3 +1,7 @@
 For Hackclub Stardance
 
-it's got three apps and stuff. and you can click em. heck yeah
+It's got three apps and stuff. And you can click em. Heck yeah.
+
+ZERO AI USAGE
+
+Used this guide: [https://jams.hackclub.com/batch/webOS/part-4#Additional%20Challenges](url)
