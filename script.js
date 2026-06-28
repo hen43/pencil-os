@@ -51,6 +51,7 @@ function openWindow(element) {
 // Make the DIV element draggable:
 dragElement(document.getElementById("welcomeBox"));
 dragElement(document.getElementById("grass-app"));
+dragElement(document.getElementById("feedback-app"));
 
 // Step 1: Define a function called `dragElement` that makes an HTML element draggable.
 function dragElement(element) {
